@@ -1,1 +1,1 @@
-# 9_mini_project_pythoncode
+# short_project_python
